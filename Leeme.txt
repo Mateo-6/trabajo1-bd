@@ -1,0 +1,14 @@
+Integrantes:
+    Mateo Arango Buitrago
+    Ruben Dario Leo
+    Juan Carlos Espinosa Delgado
+    Cristhian Daniel Duque Ramirez
+
+Programación
+
+API: Ejercio 1 = localhost:3000/api/core/2 (parametro = menu_id)
+API: Ejercio 2 = localhost:3000/api/core2/2 (parametro = nino_id)
+API: Ejercio 3 = localhost:3000/api/core/
+
+Ejercicio SQL
+    Punto 8 se encuentra en archivo word
