@@ -12,3 +12,9 @@ API: Ejercio 3 = localhost:3000/api/core/
 
 Ejercicio SQL
     Punto 8 se encuentra en archivo word
+
+NOTA: ENTRAR A CARPETA EJERCICIOS
+
+Para corer NODE.JS:
+    1. Descargar Node (Su version mas reciente).
+    2. Entrar al directoria raiz del proyecto y ejecutar el siguiente comando: npm install ( Este comando instalara todas las depencias y paquetes necesarios )
